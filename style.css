@@ -5,7 +5,7 @@
   margin-left: 50px;
 }
 #headshot {
-  margin-top: -190px;
+  margin-top: -210px;
   height: 250px;
   margin-left: 40px;
   border: solid 5px;
@@ -19,10 +19,12 @@
 .header {
   margin-top: 100px;
   margin-left: 40px;
+  font-family: "Source Code Pro", monospace;
 }
 .header2 {
   margin-top: 100px;
   margin-left: 360px;
+  font-family: "Source Code Pro", monospace;
 }
 .social-media {
   height: 75px;
@@ -33,8 +35,11 @@
 #bio {
   margin-left: 250px;
   margin-top: 50px;
+  font-family: "Source Code Pro", monospace;
+  color: #8bfbb0;
 }
 .card {
   margin-top: 30px;
   margin-left: 35px;
+  font-family: "Source Code Pro", monospace;
 }
